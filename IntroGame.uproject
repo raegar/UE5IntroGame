@@ -1,17 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{1C8BF665-4B02-B9E4-B36A-6E9985D8875C}",
+	"EngineAssociation": "{FBA34899-4DB1-1DD4-400E-01B9CA8C2876}",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		}
-	]
+	"Description": ""
 }
